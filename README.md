@@ -41,16 +41,17 @@ Each candidate is evaluated using a custom weighted scoring formula:
 
 ## 💻 How to Run the Project
 
-### 🧩 1️⃣ Clone the Repository
-```bash
+1️⃣ Clone the Repository
 git clone https://github.com/vipinjaiswal2003/HireSmart-100BJobs.git
 cd HireSmart
 
+2️⃣ Run the Backend
 cd backend
 npm install
 npm start
 ✅ Backend running at: http://localhost:4000
 
+3️⃣ Run the Frontend
 cd frontend
 npm install
 npm run dev
