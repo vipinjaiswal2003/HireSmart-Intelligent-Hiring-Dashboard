@@ -40,7 +40,7 @@ Each candidate is evaluated using a custom weighted scoring formula:
 ---
 
 ## 💻 How to Run the Project
-
+```bash
 1️⃣ Clone the Repository
 git clone https://github.com/vipinjaiswal2003/HireSmart-100BJobs.git
 cd HireSmart
